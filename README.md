@@ -17,7 +17,7 @@ Chapter 7 - Loops in Python and Practice Set
 
 Chapter 8 - Functions & Recursion and Practice Set
 
-Project 1 - Snake, Water, Gun Game and Practice Set
+***Project 1 - Snake, Water, Gun Game and Practice Set***
 
 Chapter 9 - File I/O 
 
@@ -25,11 +25,11 @@ Chapter 10 - Object Oriented Programming and Practice Set
 
 Chapter 11 - Inheritance and Practice Set
 
-Project 2 - The Perfect Guess
+***Project 2 - The Perfect Guess***
 
 Chapter 12 - Advanced Python and Practice Set
 
 Chapter 13 - Advanced Python and practice set
 
-Project 3 - Library Management System
+***Project 3 - Library Management System***
  
